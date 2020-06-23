@@ -4,7 +4,7 @@
 2. Create a header component and add that to the app
 3. Create a blog image component then also add that
 4. Create a blog text component then also add that
-5. Find a way of passing down the commentList array from the App component to the Comments component
+5. Instead of making an API call to grab some seed data, which we will learn how to do in due course, some comments have already loaded into the app in the commentList file. Find a way of passing down the commentList array from the App component to the Comments component
 6. Render out the comments in the commentList array in the Comments component. Add a placeholder image using https://placeholder.com
 7. Style the Blog app
 
