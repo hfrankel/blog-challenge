@@ -1,0 +1,8 @@
+.blog-text-container {
+  display: grid;
+  grid-template-columns: 5% 1fr 5%;
+}
+
+.blog-text {
+  grid-column-start: 2;
+}
