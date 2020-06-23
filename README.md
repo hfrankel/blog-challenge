@@ -1,3 +1,12 @@
+# Blog Challenge
+
+1. Clone the repository
+2. Create a header component and add that to the app
+3. Create a blog image component then also add that
+4. Find a way of passing down the commentList array from the App component to the Comments component
+5. Render out the comments in the commentList array in the Comments component. Add a placeholder image using https://placeholder.com
+6. Style the Blog app
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
